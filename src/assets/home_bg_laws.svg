@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="580px" height="60px" viewBox="0 0 580 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>home_bg_laws copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="580" height="60"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#0DD5C4" offset="0%"></stop>
+            <stop stop-color="#09C1BC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="99.0672832%" y1="49.0672832%" x2="0.932716837%" y2="49.0672832%" id="linearGradient-4">
+            <stop stop-color="#04A6A6" offset="0%"></stop>
+            <stop stop-color="#12CAC2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.4290497%" id="linearGradient-5">
+            <stop stop-color="#0CD1C3" offset="0%"></stop>
+            <stop stop-color="#0AC5BD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="新能源" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-" transform="translate(-980.000000, -1893.000000)">
+            <g id="Group-9-Copy" transform="translate(980.000000, 1893.000000)">
+                <g id="home_bg_laws">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#00C1C1" xlink:href="#path-1"></use>
+                    <path d="M260,63 C281.333333,44.3333333 318.333333,35.6666667 371,37 C423.666667,38.3333333 476,22 528,-12 L581,-12 C581,30 581,53 581,57 C581,61 581,66.3333333 581,73 L260,63 Z" id="Path-4" fill="url(#linearGradient-3)" mask="url(#mask-2)"></path>
+                    <path d="M343.245065,22.9571074 C355.923926,22.9571074 374.148438,12.6788603 374.148438,1.0658141e-14 C374.148438,-12.6788603 355.923926,-22.9571074 343.245065,-22.9571074 C330.566205,-22.9571074 313.605469,-12.6788603 313.605469,1.0658141e-14 C313.605469,12.6788603 330.566205,22.9571074 343.245065,22.9571074 Z" id="Oval-2" fill="url(#linearGradient-4)" mask="url(#mask-2)"></path>
+                    <path d="M-20.96875,79.5 C-4.96875,58.8333333 18.03125,48.1666667 48.03125,47.5 C78.03125,46.8333333 101.364583,38.5 118.03125,22.5 L135.078125,22.5 L135.078125,97.5 L-20.96875,79.5 Z" id="Path-6" fill="url(#linearGradient-5)" mask="url(#mask-2)" transform="translate(57.054688, 60.000000) scale(-1, 1) translate(-57.054688, -60.000000) "></path>
+                    <path d="" id="Path-5" stroke="#979797" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
