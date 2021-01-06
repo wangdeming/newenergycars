@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "echarts": "^4.2.0-rc.2",
     "loglevel": "^1.6.1",
     "qs": "^6.5.2",
